@@ -33,4 +33,4 @@ src/
 
 **<h3>:book: Ejemplo de Salida:</h3>**
 
-<img src="./proyecto/src/archivo/imagen.jpg" alt="" style="width: 40%;">
+<img src="./img/test_operaciones_matematicas.jpg" alt="" style="width: 80%;">
